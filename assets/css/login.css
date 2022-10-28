@@ -1,0 +1,17 @@
+.login{
+    width:1024px;
+    height:700px;
+    border-right:1px solid darkgreen;
+    border-left:1px solid darkgreen;
+    margin:0px auto;
+    background-color:rgba(0,255,0,0.1);
+    border-top:1px solid darkgreen;
+}
+
+#main{
+    width:400px;
+    height:500px;
+    margin:0px auto;
+    border:1px solid blue;
+    color:lightblue;
+}
