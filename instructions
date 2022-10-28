@@ -1,0 +1,3 @@
+- First clone the repo to your wamp or xamp server www or htdocs folder.
+- After that import the sql file to server and execute it.
+- Then run the project in your browser.
